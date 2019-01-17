@@ -5,4 +5,6 @@ __pycache__
 .coverage
 .cache
 .env 
-.swp 
+.swp
+
+ 
