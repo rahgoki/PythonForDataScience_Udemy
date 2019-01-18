@@ -24,5 +24,12 @@ To active / de-activate environment on a Mac use:
 * conda --info envs
 
 
+## General Notes
+
+Shift + Tab in Jupyter Notebooks shows information on a function, including its Docstring.
+
+Jupyter Notebook shortcuts and [tips](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
+
+
 
  
